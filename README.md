@@ -1,5 +1,5 @@
     if (alive == true) {
-        update_website(pikku-a.com);
+        do_things();
     }else{
 (っ °Д °;)っ
     
