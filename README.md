@@ -1,4 +1,4 @@
-(｡･ω･)ゞ Yo. 
+(｡･ω･)ゞ Yo. <br/>
 I'm just a wandering mercenary coder. <br/>
 Take some tea 🍵╰('-' ) <br/>
 [And check out my games, good sir  (╭ರ_•́) .](https://pikkua.com/games/)
