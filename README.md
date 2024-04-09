@@ -6,5 +6,6 @@ If you want to hire me to do freelance coding, see my <a href="https://pikkua.co
 <a href="https://pikkua.com/games/">Also, check out my games, good sir  (╭ರ_•́) .</a> <br/><br/>
 
 ![](https://raw.githubusercontent.com/Pikku-a/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Pikku-a/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,mint,gamemakerstudio,godot,nodejs,git,bash,cmake)](https://skillicons.dev)
 </div>
