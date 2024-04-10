@@ -9,5 +9,6 @@ If you want to hire me to do freelance coding, see my <a href="https://pikkua.co
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,mint,gamemakerstudio,godot,nodejs,git,bash,cmake)](https://skillicons.dev)
 <br/>
-![:name](https://count.getloli.com/get/@:pikkua-github)
+And your visitor number is...<br/>
+![:name](https://count.getloli.com/get/@:pikkua-github?theme=rule34)
 </div>
