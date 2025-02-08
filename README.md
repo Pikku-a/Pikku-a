@@ -1,6 +1,6 @@
 <div align=center>
 (｡･ω･)ゞ Yo. <br/>
-I'm just a wandering <del>adventurer</del> coder. <br/>
+I'm just a wandering <del>adventurer</del> coder from <a rel="me" href="https://pikkua.com">here</a>. <br/>
 Here is  some tea for you 🍵╰('-' ) <br/>
 <a href="https://pikkua.com/games/">Check out my games, good sir  (╭ರ_•́) .</a> <br/><br/>
 
