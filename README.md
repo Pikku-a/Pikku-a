@@ -8,4 +8,6 @@ Here is  some tea for you 🍵╰('-' ) <br/>
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=linux,gamemakerstudio,godot,nodejs,git,bash,cmake)](https://skillicons.dev)
 <br/>
+Programming language skill by order<br/>
+[![My Skills](https://skillicons.dev/icons?i=gamemakerstudio,godot,html,js,c,cpp,py)](https://skillicons.dev)
 </div>
