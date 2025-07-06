@@ -9,6 +9,6 @@ Here is  some tea for you 🍵╰('-' ) <br/>
 Tools I use sometimes<br/>
 [![My Skills](https://skillicons.dev/icons?i=linux,gamemakerstudio,godot,nodejs,git)](https://skillicons.dev)
 <br/>
-Programming language skill by order<br/>
+Programming language skill in order<br/>
 [![My Skills](https://skillicons.dev/icons?i=gamemakerstudio,godot,html,js,c,cpp,py,bash)](https://skillicons.dev)
 </div>
