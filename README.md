@@ -13,4 +13,8 @@ Tools I use sometimes<br/>
 <br/>
 Programming language skill in order<br/>
 [![My Skills](https://skillicons.dev/icons?i=gamemakerstudio,godot,html,js,c,cpp,py,bash)](https://skillicons.dev)
+
+<!--img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pikku-a&layout=compact&langs_count=8&card_width=320" /-->
+
 </div>
+
